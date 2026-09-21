@@ -1,4 +1,4 @@
-// Adapter - adapts AttendanceSystem to the SchoolManagementApp interface
+
 public class AttendanceSystemAdapter implements SchoolManagementApp {
     private AttendanceSystem attendanceSystem;
 
