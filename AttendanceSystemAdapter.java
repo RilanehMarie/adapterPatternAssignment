@@ -8,7 +8,7 @@ public class AttendanceSystemAdapter implements SchoolManagementApp {
 
     @Override
     public void integrateSystem() {
-        // Translate the call to the adaptee's method
+
         attendanceSystem.markAttendance();
     }
 }
