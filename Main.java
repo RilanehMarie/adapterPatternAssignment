@@ -1,5 +1,5 @@
 
-public class SchoolManagementDemo {
+public class Main {
     public static void main(String[] args) {
        
         AttendanceSystem attendanceSystem = new AttendanceSystem();
