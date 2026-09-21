@@ -1,4 +1,4 @@
-// Adapter - adapts GradingSystem to the SchoolManagementApp interface
+
 public class GradingSystemAdapter implements SchoolManagementApp {
     private GradingSystem gradingSystem;
 
